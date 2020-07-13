@@ -1659,7 +1659,7 @@ MonoBehaviour:
   - m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 820177057}
-        m_MethodName: OnRestart
+        m_MethodName: OnRestartKeyClick
         m_Mode: 0
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
